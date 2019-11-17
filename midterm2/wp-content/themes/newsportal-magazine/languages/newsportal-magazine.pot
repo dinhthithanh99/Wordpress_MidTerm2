@@ -1,0 +1,84 @@
+# Copyright (C) 2019 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: themeeggofficial@gmail.com\n"
+"POT-Creation-Date: 2019-02-07 09:18:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: ThemeEGG <themeeggofficial@gmail.com>\n"
+"Language-Team: LANGUAGE <themeeggofficial@gmail.com>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: inc/widget-newsportal-magazine-tab.php:30
+msgid "Displays the latest posts, popular posts and the recent comments in tab."
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:32
+msgid "Tab Widget"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:44
+msgid "Popular Title"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:46
+#: inc/widget-newsportal-magazine-tab.php:93
+msgid "Popular"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:50
+msgid "Recent Title"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:52
+#: inc/widget-newsportal-magazine-tab.php:94
+msgid "Recent"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:56
+msgid "Comments Title"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:58
+#: inc/widget-newsportal-magazine-tab.php:95
+msgid "Comments"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:62
+msgid "Number of posts to display."
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:68
+msgid "Show popular post by view count."
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:173
+#: inc/widget-newsportal-magazine-tab.php:239
+msgid ""
+"<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" "
+"rel=\"bookmark\">%3$s</a></span>"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:185
+msgid "No Comments"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:185
+msgid "1 Comment"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:185
+msgid "% Comments"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:274
+msgid "says:"
+msgstr ""
+
+#: inc/widget-newsportal-magazine-tab.php:280
+msgid "No comments"
+msgstr ""
